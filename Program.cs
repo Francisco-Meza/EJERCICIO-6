@@ -6,7 +6,9 @@ namespace EJERCICIO_6
     {
         static void Main(string[] args)
         {
+            //-- COMENTARIO DE PRUEBA -----------
             Console.WriteLine("EJERCICIO 6");
+            Console.WriteLine("SE AGREGO CORRECTAMENTE");
         }
     }
 }
